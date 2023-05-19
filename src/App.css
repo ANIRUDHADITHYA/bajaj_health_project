@@ -103,3 +103,15 @@ input:focus{
 ::-ms-input-placeholder { /* Microsoft Edge */
  color: white;
 }
+
+ span {
+  padding: 10px;
+  background-color: #698cf7;
+  border-radius: 5px;
+  
+}
+
+span a {
+  text-decoration: none;
+  color: white;
+}
